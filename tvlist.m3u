@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,CCTV1
+http://cfss.cc/api/ysp/cctv1.m3u8
+#EXTINF:-1,CCTV2
+http://cfss.cc/api/ysp/cctv2.m3u8
+#EXTINF:-1,CCTV3
+http://cfss.cc/api/ysp/cctv3.m3u8
+#EXTINF:-1,CCTV4
+http://cfss.cc/api/ysp/cctv4.m3u8
+#EXTINF:-1,CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1,CCTV6
+http://cfss.cc/api/ysp/cctv6.m3u8
